@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="content-wrapper" style="font-family: Poppins; font-size: small;">
+    <section class="content">
+        <div class="container-fluid">
+            <h1 class="text-center mb-4">Learning Materials</h1>
+            
+            <div class="accordion" id="learningMaterialsAccordion">
+                {% for level, materials in materials %}
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="heading{{ level }}">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ level }}" aria-expanded="true" aria-controls="collapse{{ level }}">
+                            Competency Level: {{ level }}
+                        </button>
+                    </h2>
+                    <div id="collapse{{ level }}" class="accordion-collapse collapse" aria-labelledby="heading{{ level }}" data-bs-parent="#learningMaterialsAccordion">
+                        <div class="accordion-body">
+                            <div class="row">
+                                {% for material in materials %}
+                                <div class="col-md-4 mb-4">
+                                    <div class="card shadow-sm">
+                                        <div class="card-body text-center">
+                                            <h5 class="card-title">{{ material.title }}</h5>
+                                            <a href="{{ material.pdf_file.url }}" class="btn btn-primary bg-lightblue" target="_blank">View PDF</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                {% empty %}
+                                <div class="col-12">
+                                    <div class="alert alert-warning text-center">
+                                        No learning materials available for this level.
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% empty %}
+                <div class="col-12">
+                    <div class="alert alert-warning text-center">
+                        No learning materials available for your competency level.
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+</div>
+{% endblock %}

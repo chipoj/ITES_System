@@ -1,0 +1,22 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title> Procurement System</title>
+  <link rel="shortcut icon" type="image/png" href="{% static 'dashboard/img/CimasLogos.svg' %}">
+
+  {% include 'css_home.html' %}
+  </head>
+  <body class="hold-transition fullscreen">
+    <!-- Content Wrapper. Contains page content -->
+    <div class="fullscreen-wrapper">
+    {% block content %}
+
+    {% endblock %}
+    </div>
+  <!-- /.login-box -->
+{% include 'javascript_home.html' %}
+</body>
+</html>

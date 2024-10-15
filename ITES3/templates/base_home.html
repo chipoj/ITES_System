@@ -1,0 +1,27 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title> Procurement System</title>
+  <link rel="shortcut icon" type="image/png" href="{% static 'dashboard/img/CimasLogos.svg' %}">
+
+  {% include 'css_home.html' %}
+  </head>
+  <body class="hold-transition login-page">
+    {% for message in messages %}
+        <div class="alert {{ message.tags }} alert-dismissible shadow fade show" role="alert">
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+          </button>
+        {{ message | safe }}
+    </div>
+  {% endfor %}
+  {% block content %}
+
+  {% endblock %}
+  <!-- /.login-box -->
+  {% include 'javascript_home.html' %}
+</body>
+</html>
