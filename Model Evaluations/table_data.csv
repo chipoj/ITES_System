@@ -1,0 +1,168 @@
+id,student,scenario_question,student_answer,openai_answer,student_facts_identified,is_answered_correct,Pretest_Score,Posttest_Score,P_Known (BKT),Mastery (0/1)
+18,student10,QuestionScenario object (7),"Motor vehicle destroyed and purchase of desks 	 
+Amounts which are capital in nature are excluded from gross income 	 
+There is a deemed disposal on receipt of the insurance payout. 	
+The proceeds received from the insurance are not revenue in nature but capital in nature as the motor vehicle had an enduring benefit to Appollo. 	
+Recoupment may need to be calculated as there may have been a recovery of capital allowances previously granted. 	1 
+The motor vehicle is a passenger motor vehicle and the cost was within the limit of $100,000 for purposes of determining capital allowances. 	
+Upon the deemed disposal the recoupment will only be limited to the capital allowances claimed. 	
+The recoupment amount is limited to capital allowances of ZWL11,250 (45000*25%). 	
+The desks constitute furniture, and they have an enduring benefit to Appollo thus are capital in nature. 	
+Thus, Appollo shall not be allowed a deduction on the ZWL60,000 incurred in the acquisition of the desks.  	
+However, the desks shall rank for capital allowances as per section 15(2)(c) 	 
+The desks shall rank for SIA in 2020 when they are brought into use. 	","You did a commendable job identifying the key elements in the taxation surrounding the destruction of the motor vehicle and the purchase of desks. It's great to see that you recognized the importance of distinguishing capital from revenue in the context of insurance proceeds and capital allowances. Your explanation regarding the enduring benefit of both the motor vehicle and the desks is well articulated.
+
+However, there are a few areas where you could refine your understanding and reasoning. While you correctly noted that the proceeds from the insurance payout are capital in nature, it’s essential to clarify that recoupment must not only consider the capital allowances previously granted but also any specific rules regarding the disposal process in tax law. 
+
+You mentioned that the recoupment amount is limited to the capital allowances claimed, which is accurate. Just remember that the calculation should thoroughly reflect the specific circumstances of the disposal, including any applicable thresholds or limits beyond the amount you've cited.
+
+Regarding the desks, you correctly identified that they are treated as capital in nature and will rank for capital allowances. Yet, ensure you’re clear on the timing of the capital allowances—while you stated that they will rank for SIA when they are brought into use, it’s beneficial to mention that the effective rates or deductions will apply based on the relevant taxation periods or any specific conditions that may affect their recognition.
+
+Overall, you’re on the right path, and with additional attention to the nuances of recoupment and the specific details regarding allowances, you will strengthen your grasp of these taxing principles further. Don't hesitate to revisit these concepts or try similar questions to solidify your understanding. 
+
+Keep up the hard work!",,TRUE,0,0.99,0.99,level 2
+17,student10,QuestionScenario object (6),Gross income should be amount which is from a source within ZImbabawe.  Appollo sales a lot of its products in south africa due to an increased demand of its products.  60% OF Appollo's sales are exports to southafrica. The source of Appoll's income is from SA hwoever it is to be deemed source from ZImbabawe. This is because Appollo is registeed on the ZImbabawe stock exchange there means the compnay is from Zimbabawe.  Therefore the source if sales from SA are from Zimbabawe as it is deemed to be source from Zimbabwe. In terms of local source the location is Zimbabwe,"You did a commendable job identifying the key rule regarding the determination of the true source of income when operations span multiple jurisdictions. Your understanding that the location of the dominant activity is crucial is a strong point in your response.
+
+However, there are several areas for improvement that align with the taxation rules. You mentioned that since Apollo is registered on the Zimbabwe stock exchange, the income is deemed to be sourced from Zimbabwe regardless of where the sales occur. While company registration does play a role in establishing jurisdiction, it is the actual business activities that significantly impact the source determination. 
+
+In the correct solution, it is highlighted that both manufacturing in Zimbabwe and sales marketing in South Africa are considered. Since 60% of Apollo's sales are exported to South Africa, it's essential to analyze where the dominant activities occur. The correct conclusion is that even though sales are made in South Africa, if the significant manufacturing processes originate in Zimbabwe, then the true source of the income is Zimbabwe.
+
+Be sure to carefully consider the complete operational context when determining income sources. The balance of activities in multiple jurisdictions can have a complex influence on where such income is sourced. 
+
+I encourage you to reflect on this feedback and try answering the question again, or if you feel confident, feel free to move on to the next question.","Feedback: Student correctly identified the rule: Where the process of manufacturing and selling goods or services happens across two 
+        jurisdictions, the determination of the true source involves considering where the dominant
+        activity has taken place.. or Where the process of manufacturing and selling goods or services happens across two
+        jurisdictions, the determination of the true source involves considering where the dominant
+        activity has taken place.
+",FALSE,0,0.99,0.99,level 2
+16,student10,QuestionScenario object (4),"Though the divident is from a foregn company it will stil be taxed because the compnay or person receving is considered an ordinarily resident hence the divident shall be taxed at a redduced rate of 20%. The amount to be added as part of the gross income there becomes ZWL15,500. The source of foreign dividends is the place where the originating investment is made. The true source of the South African dividend is the South Africa where the investments was made by Appollo.However, there is a deeming provision, section12(2), which brings into gross income, foreign dividend. The amount to be brought into gross income is the gross amount accrued or received","Firstly, you did a commendable job in identifying that the dividend from a foreign company is subject to taxation when received by a resident. Your recognition of the reduced tax rate of 20% demonstrates an understanding of how foreign dividends are treated under the relevant tax regulations. Additionally, you accurately determined that the true source of the South African dividend is South Africa, which aligns with the taxation principle regarding the origin of income.
+
+However, there are a few areas where you can enhance your understanding. While you mentioned the deeming provision under section 12(2), you need to ensure that your explanation is more precise regarding the conditions that lead to foreign dividends being included in gross income. You stated, “the amount to be added as part of the gross income there becomes ZWL15,500.” It’s important to clarify that the gross amount to be brought into gross income is indeed the total amount received or accrued, with no deductions applied prior to the inclusion.
+
+Moreover, watch out for minor spelling and grammatical mistakes – for instance, ""foregn"" should be ""foreign,"" and ""company or person receving"" should be ""company or person receiving."" Such details can impede clarity and professionalism in your responses.
+
+In summary, while you grasped many core concepts regarding how foreign dividends are taxed, refining your accuracy in articulation and ensuring clarity concerning the gross income calculations will enhance your response. I encourage you to revisit this question or perhaps try another one for practice. Keep up the good effort!",,TRUE,0,0.99,0.99,level 2
+15,student9,QuestionScenario object (4),"Though the divident is from a foregn company it will stil be taxed because the compnay or person receving is considered an ordinarily resident hence the divident shall be taxed at a redduced rate of 20%. The amount to be added as part of the gross income there becomes ZWL15,500. The source of foreign dividends is the place where the originating investment is made. The true source of the South African dividend is the South Africa where the investments was made by Appollo.However, there is a deeming provision, section12(2), which brings into gross income, foreign dividend. The amount to be brought into gross income is the gross amount accrued or received ","You did a good job identifying the key principles regarding foreign dividends and recognizing the importance of the country of the originating investment in determining tax obligations. Your reference to section 12(2) demonstrates an understanding of how foreign dividends are treated in terms of taxation and their inclusion in gross income. 
+
+However, there are a few areas where you can improve. First, your explanation could benefit from clearer articulation of the taxation process. While you mentioned the reduced tax rate of 20%, it would greatly enhance your answer to explicitly state that this rate applies specifically to the taxable portion of the foreign dividend, as not all foreign dividends are taxed in the same manner depending on various factors, such as tax treaties and exemptions.
+
+Also, when you stated the amount of ZWL15,500, you indicated this as part of the gross income but did not clarify that this figure should represent the gross amount of the dividend received, meaning it should be accurately stated as either gross or net income. Clarity around this distinction is vital in tax law.
+
+To better align your answer with the taxation rules, ensure you clearly explain how the gross dividend received is the amount included in gross income and that it must be assessed against the relevant tax exemptions or treaties that may apply, which could possibly reduce the tax liability further.
+
+Overall, your foundational understanding is solid. I encourage you to revise your answer with these considerations in mind, or feel free to move on to the next question if you feel confident in your current understanding.",,TRUE,0,0.98,0.98,level 2
+14,student8,QuestionScenario object (4),"Though the dividend is from a foreign company it will still be taxed because the company or person receiving is considered an ordinarily resident hence the dividend shall be taxed at a reduced rate of 20%. The amount to be added as part of the gross income there becomes ZWL15,500. The source of foreign dividends is the place where the originating investment is made. The true source of the South African dividend is the South Africa where the investments was made by Appollo. However, there is a deeming provision, section12(2), which brings into gross income, a foreign dividend. The amount to be brought into gross income is the gross amount accrued or received","You did a commendable job acknowledging that the foreign dividend is indeed subject to taxation, particularly highlighting the reduced tax rate of 20%. Your understanding of how the source of the dividend relates to the investment location is also correct and well explained. Additionally, you correctly referenced the deeming provision in section 12(2) that applies to foreign dividends.
+
+However, there are a few areas where you can improve your answer. While your reasoning about the taxation of foreign dividends is sound, your explanation could benefit from greater clarity and precision regarding the gross income aspect. You indicated that the amount to be added to gross income is ZWL15,500, but it would be helpful to specify that this is the gross amount accrued or received and ensure that it aligns perfectly with the guidelines from the inference engine.
+
+Also, ensure that statements are accurately phrased to avoid misinterpretation. For example, mention that the foreign dividend is included in the gross income as per the deeming provision and not just because the recipient is an ordinarily resident. This distinction is crucial in taxation rules.
+
+Overall, your effort in applying the tax rules is evident. I encourage you to revisit the concepts we discussed and try rephrasing your answer to encapsulate these points for more clarity. Don't hesitate to move on to the next question if you feel ready or try this one again for practice!",,TRUE,0,0.98,0.98,level 2
+13,student7,QuestionScenario object (4),"The source of foreign dividends is the place where the originating investment is made. 	
+The true source of the South African dividend is the South Africa where the investments was made by Appollo. 	
+However, there is a deeming provision, section12(2), which brings into gross income, foreign dividend. 	
+The amount to be brought into gross income is the gross amount accrued or received i.e., ZWL15,500 	
+The dividend shall be taxed at a reduced rate of 20%. 	","You've made a solid start in your answer by accurately identifying the source of foreign dividends and referencing the relevant legislation, section 12(2). This shows that you have a good understanding of the basics surrounding foreign dividends, which is essential in accounting.
+
+However, there are a couple of areas where you can improve. While you correctly identified the deeming provision that brings foreign dividends into gross income, you missed a crucial aspect: the importance of recognizing the taxpayer's residency status. According to taxation rules, since the taxpayer is ordinarily resident, the foreign dividend is indeed considered part of their gross income. Including this fact in your answer would have demonstrated a more comprehensive understanding of how residency impacts tax obligations.
+
+Additionally, your conclusion about the tax rate applied to the dividend is spot on; the reduced rate of 20% is correctly noted. Just be sure to clarify that this rate applies once the dividend is included in gross income, and ensure that your reasoning aligns with all relevant taxation concepts.
+
+Overall, you've grasped the essential components, but incorporating the residency aspect would strengthen your argument and enhance your understanding of the broader tax implications involved. Great effort, and I encourage you to revisit this question with these considerations in mind or feel free to tackle the next one!","Feedback: The student did not identify the rule: 
+        The foreign dividend is part of gross income because the taxpayer is ordinarily resident.
+",FALSE,0,0.66,0.66,level 2
+12,student6,QuestionScenario object (4),source of the dividend is from southafrica but it is deemed to be from zimbabawe since the rceving tax payer is resident,"You've made a good start in your analysis by recognizing that the source of the dividend is from South Africa. It’s important to note that identifying the origin of the investment is crucial in understanding the taxation of foreign dividends.
+
+However, there are some key areas where you can improve your understanding of taxation rules regarding foreign dividends. According to the correct solution and the taxation laws, the source of foreign dividends is determined by the location of the originating investment. In this case, the South African investment by Apollo is indeed the source of the dividend, not Zimbabwe.
+
+Additionally, you missed mentioning the relevant taxation provisions that apply. Specifically, section 12(2) states that the gross amount of the foreign dividend received—ZWL15,500—should be included in gross income. It is also essential to acknowledge the reduced tax rate of 20% that applies to this dividend.
+
+I encourage you to revisit the regulations regarding foreign dividends and ensure you consider both the source of the dividends and the appropriate taxation provisions. This will help you develop a clearer understanding of how international investments are treated under tax law.
+
+Feel free to try this question again or move on to the next one when you're ready!",,FALSE,0,0.66,0.66,level 2
+11,student5,QuestionScenario object (6),source of the dividend is from southafrica but it is deemed to be from zimbabawe since the rceving tax payer is resident,"You did a commendable job in attempting to identify the source of the dividend and connecting it to the residency status of the taxpayer. It’s important to recognize that you engaged with the material, which is a positive step towards understanding these complex taxation rules.
+
+However, there are some key areas where your answer could be improved. The primary issue lies in the misapplication of the taxation rules regarding the determination of the true source of income that involves multiple jurisdictions. According to the taxation rules, it's crucial to ascertain where the dominant activity related to the manufacturing or selling of the goods or services occurs. In this scenario, while you mentioned the residency of the taxpayer, the dominant activities taking place in the two jurisdictions (Zimbabwe and South Africa) need to be clearly analyzed.
+
+In the example, the major manufacturing actions were occurring in Zimbabwe, while additional activities like marketing and customization were happening in South Africa. Therefore, it is the activities in Zimbabwe that define the true source of income for the transaction. Your conclusion should reflect that the dominant activity is essential when considering the source of the dividend, leading us to determine that the income is sourced from Zimbabwe.
+
+I encourage you to revisit the concepts around jurisdiction and the determination of income sources in scenarios involving more than one location. This understanding will enhance your ability to apply taxation rules accurately.
+
+Feel free to retry the question to deepen your understanding, or you can move ahead to the next topic if you feel ready!","Feedback: The student did not correctly identify the rule: Where the process of manufacturing and 
+        selling goods or services happens across two 
+        jurisdictions, the determination of the true source involves considering where the dominant
+        activity has taken place.. or Where the process of manufacturing and selling goods or services happens across two
+        jurisdictions, the determination of the true source involves considering where the dominant
+        activity has taken place.
+",FALSE,0,0.33,0.33,level 2
+10,student5,QuestionScenario object (4),"Dividends from South Africa are in the gross taxable in terms of section 12(2) Income Tax Act that an amount derived form a source outside Zimbabwe by way of Interest, dividends on securities is deemed be income a Zimbabwe.","You did a good job in identifying that foreign dividends can be part of gross taxable income under section 12(2) of the Income Tax Act. It's clear you understand the general concept of income derived from foreign sources, which is a foundational aspect of taxation law.
+
+However, there are some areas where improvement is needed. Firstly, although you mention section 12(2), you did not explicitly recognize that as a taxpayer ordinarily resident in Zimbabwe, the foreign dividend is indeed included in your gross income. This is an important detail that you may want to clarify in your response.
+
+Additionally, when discussing the source of the dividends, it's essential to note that the true source of the South African dividend is South Africa, as you mentioned, but it’s also crucial to explain how Zimbabwe’s tax laws apply through the deeming provision of section 12(2). You should also make it clear that the gross amount to be included in gross income is not just any amount but specifically the total that has accrued or been received, in this case, ZWL15,500. 
+
+Moreover, you should not forget to mention the applicable tax rate of 20% for such dividends as this is a critical aspect of calculating the final tax liability.
+
+By focusing on these missing elements and providing a clearer connection between the rules and the example, you can strengthen your responses. Don't hesitate to retry this question if you feel the need, as practicing will increase your confidence and understanding.","Feedback: The student did not identify the rule: 
+        The foreign dividend is part of gross income because the taxpayer is ordinarily resident.
+",FALSE,0,0.33,0.33,level 2
+9,student4,QuestionScenario object (4),Dividends from South Africa are deemed to be income Foreign from a Zimbabwean source since the company is incorporated in Zimbabwe. Foreign dividends are included in the taxpayer's gross income and are subject to tax,"You did a commendable job identifying that dividends from foreign sources can be included in gross income. It’s clear you understand that foreign dividends are subject to tax, which is a crucial concept in accounting and taxation.
+
+However, there are a couple of areas where your answer could be strengthened. Firstly, it is essential to recognize that the source of the dividend is determined by where the company is incorporated, which you mentioned but did not fully elaborate on regarding the residency of the taxpayer. Since the taxpayer is ordinarily resident in Zimbabwe, the South African dividend must be included in gross income as per the taxation rules. This is a key rule that you missed, specifically the deeming provision outlined in section 12(2), which explicitly states that foreign dividends must be included in gross income.
+
+Additionally, the correct amount to include in the gross income should be the gross amount received, which, in this case, is ZWL 15,500. It would be beneficial to clearly state the amount included in the taxpayer's gross income, along with the reduced tax rate applicable to this type of income, which is 20%.
+
+Understanding these nuances is important, and I encourage you to revisit the taxation rules to clarify these points. Keep practicing, and if you need further clarification, don’t hesitate to ask for help or try this question again. You're making good progress, and with a bit more attention to detail, you'll continue to improve!","Feedback: The student did not identify the rule: 
+        The foreign dividend is part of gross income because the taxpayer is ordinarily resident.
+",FALSE,0,0.6,0.6,level 2
+8,student3,QuestionScenario object (4),dividend from South Africa are not see income from angstrom Zimbabwean beginning since the company be not integrate inch Zimbabwe.,"You did a good job of attempting to explain the situation regarding the foreign dividends in your answer. It's clear that you understand the importance of the location of the dividend source. However, there are some key areas where your understanding could be strengthened.
+
+Firstly, the reinforcement of the concept that foreign dividends are part of gross income when the taxpayer is ordinarily resident is crucial. This means that even if the dividend originates from South Africa, it still needs to be included as part of your total income under the tax laws. Your response did not mention this rule, which is a significant oversight.
+
+Additionally, you referenced the origin of the investment when discussing the source of the dividend, but you didn't provide the necessary context regarding the deeming provision under section 12(2). This provision indicates that even though the dividend comes from a foreign entity, it must still be considered for gross income and could be subject to a specific taxation rate. In this case, knowing that the gross amount of ZWL15,500 should be reported and that it would be taxed at a reduced rate of 20% is essential.
+
+Taking the time to clarify these points would greatly enhance your response. Understanding the reasoning behind why foreign dividends need to be included is fundamental in accounting and taxation. I encourage you to review these taxation principles and consider how they apply to the situations presented. Don't hesitate to retry this question or move on to the next one when you feel ready!","Feedback: The student did not identify the rule: 
+        The foreign dividend is part of gross income because the taxpayer is ordinarily resident.
+",FALSE,0,0.62,0.62,level 2
+7,student2,QuestionScenario object (4),dividend from South Africa are deem to beryllium income from angstrom Zimbabwean beginning since the company be integrate inch Zimbabwe. foreign dividend are include inch the taxpayer's gross income and are subject to tax,"You did a commendable job in recognizing that foreign dividends are included in gross income and subject to tax. It's great to see that you understand the basic principle that dividends from foreign sources are indeed taxable. 
+
+However, there are a few areas where you can improve your understanding of the taxation rules. Firstly, it's important to clarify that the source of the dividend is determined by where the investment originated—in this case, South Africa, not Zimbabwe. This detail is crucial because it influences tax implications. 
+
+Additionally, you missed mentioning the deeming provision specified in section 12(2), which states that foreign dividends must be included in the taxpayer's gross income. According to this provision, the gross amount received from the foreign dividend must be reported, which in this case is ZWL15,500. Furthermore, keep in mind that there is a reduced tax rate of 20% applicable to these dividends, which is another key point you should have included in your answer.
+
+Understanding these specific rules will help you build a stronger foundation in taxation concepts. I encourage you to revisit the material covering these concepts and try to answer the question again if needed. Alternatively, you can also proceed to the next question now that you have this feedback in hand. 
+
+Student_correct=False","Feedback: The student did not identify the rule: 
+        The foreign dividend is part of gross income because the taxpayer is ordinarily resident.
+",FALSE,0,0.66,0.66,level 2
+6,student1,QuestionScenario object (4),"derived from a source outside of by way dividends on securities, is received by a person ordinarily in Zimbabwe at the amount is received, is to be income from a source within Zimbabwe.","You've made a good effort in understanding how the taxation of dividends works, especially in relation to the source of income. Highlighting that dividends received are considered income from a source within Zimbabwe is an important aspect of taxation, and it's great to see you addressing the significance of where the dividend originates.
+
+However, there are several areas where improvements can be made based on the taxation rules. First, while you correctly referenced that the dividends are derived from securities, you didn't clarify that the actual source of foreign dividends is determined by where the originating investment is made. In this case, it's essential to specify that the source of the South African dividend is indeed South Africa, as that is where Apollo made the investment.
+
+Moreover, you missed mentioning the deeming provision under section 12(2), which states that foreign dividends must be included in gross income. It's important to note that the gross amount received, which is ZWL15,500 in this case, must be accurately addressed when calculating income. Finally, you did not clarify that such dividends are subjected to a reduced tax rate of 20%, which is a crucial detail for determining the total tax liability.
+
+Consider revisiting the taxation rules regarding foreign dividends for a clearer understanding of how these principles apply to your calculations. I encourage you to attempt the question again with these points in mind, or if you feel ready, move on to the next question.",,FALSE,0,0.62,0.62,level 2
+5,admin,QuestionScenario object (6),"0 was then used to acquire desks. Appollo has always claimed the maximum possible capital allowances on this vehicle. Appollo Ltd Bulawayo branch is currently managed by Ms Dipuo Motse, a South African resident who was seconded to Zimbabwe in November 2021 for a period of three years. Dipuo’s salary is paid through the Bulawayo branch’s payroll while she is working there. Dipuo was involved in an accident at work in December 2022: she was run over by a forklift that was being driven by a fellow employee who was stacking boxes in Appollo’s warehouse. Dipuo suffered multiple fractures to both her legs and had to undergo a six-hour operation, followed by a long period of rehabilitation. As a result of the accident, she was unable to work for three months and incurred substantial medical expenses, which she was unable to recover from her medical aid fund. ","You did a good job in providing details about Appollo Ltd's operations, including the role of Ms. Dipuo Motse and the impact of her accident. Your narrative reflects a solid grasp of the context within which these events are taking place. 
+
+However, there are critical areas where your analysis could be improved, particularly in how you apply the taxation rules regarding jurisdiction and the determination of true source. The taxation rules indicate that when manufacturing and selling occur across two jurisdictions, it is essential to consider where the dominant activity happens. In your answer, the focus appears to be more on Ms. Motse's situation rather than clarifying the shipping and manufacturing processes taking place in Zimbabwe versus South Africa.
+
+Additionally, you missed the point about the significance of identifying the dominant jurisdiction in this case, which should have led you to conclude that the major manufacturing is happening in Zimbabwe. The ideal solution emphasizes that the income from sales in South Africa should be included in Appollo’s gross income, as the dominant activities (manufacturing) occurred in Zimbabwe.
+
+In summary, while your context was well-developed, refining your focus to the specific taxation rules concerning jurisdiction and the evaluation of dominant activities would enhance your analysis significantly. I encourage you to revisit this question with these points in mind and apply the relevant taxation concepts more directly. If you feel ready, you can try this question again or move on to the next one. 
+
+Student_correct=False","Feedback: The student did not correctly identify the rule: Where the process of manufacturing and 
+        selling goods or services happens across two 
+        jurisdictions, the determination of the true source involves considering where the dominant
+        activity has taken place.. or Where the process of manufacturing and selling goods or services happens across two
+        jurisdictions, the determination of the true source involves considering where the dominant
+        activity has taken place.
+",FALSE,0,0.36,0.36,level 2
+4,admin,QuestionScenario object (4),"ultiple fractures to both her legs and had to undergo a six-hour operation, followed by a long period of rehabilitation. As a result of the accident, she was unable to work for three months and incurred substantial medical expenses, which she was unable to recover from her medical aid fund. Dipuo paid her medical expenses in February 2023 and lodged a claim against Appollo for ZWL175 000, being the medical costs that were not recoverable. Appollo’s head office in Harare paid the claim to Dipuo on 31 May 2022. Appollo’s Bulawayo branch paid Dipuo her full salary of ZWL50 000 per month throughout the period that she was booked off. This is included in the Bulawayo branch’s operating expenses. Appollo paid a 13th cheque to Dipuo of ZWL60,000.","You've done a commendable job in providing a detailed narrative regarding Dipuo's medical situation and expenses. Your ability to outline the specifics of her medical claim and salary payments indicates good comprehension of the facts provided. However, it appears this response did not directly address the accounting question about foreign dividends that was intended.
+
+To improve, it is crucial to focus on the taxation rules relevant to the case. Specifically, your answer missed identifying that foreign dividends are considered part of gross income for taxpayers who are ordinarily resident. According to section 12(2), there is a deeming provision that requires foreign dividends to be included in gross income. In this case, the gross amount of the foreign dividend should be highlighted, alongside the applicable reduced tax rate of 20%.
+
+Next time, ensure to concentrate on the core principles of taxation that relate specifically to the question being answered. This practice will enhance your ability to connect case details to taxation laws effectively.
+
+If you wish, I encourage you to review the taxation rules again and retry this question or you may move on to the next question. Keep up the effort!","Feedback: The student did not identify the rule: 
+        The foreign dividend is part of gross income because the taxpayer is ordinarily resident.
+",FALSE,0,0.36,0.36,level 2
