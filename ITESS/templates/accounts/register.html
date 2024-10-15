@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+<div style="font-family: Poppins;font-size: small !important;" class="content-wrapper">
+    <section class="content">
+        <div class="container-fluid p-5">
+            <div class="col-3"></div>
+            <div class="col-6">
+                <h3> Create account today </h3>
+                <form action="" method="post">
+                    {% csrf_token %}
+                    {{form|crispy}}
+                    <input type="submit" value="Sign up" class="btn btn-primary">
+                </form>
+                <br />
+                <br />
+            </div>
+        </div>
+    </section>
+</div>
+{% endblock content %}
