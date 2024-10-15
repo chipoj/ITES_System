@@ -1,8 +1,10 @@
 # Intelligent Tutoring Expert System (ITES) for CTA Program - README
 
 ## Overview
-The Intelligent Tutoring Expert System (ITES) is designed to assist students in the Certificate in the Theory of Accounting (CTA) program by providing personalized learning paths and adaptive feedback. The system uses Bayesian Knowledge Tracing (BKT) and the OpenAI API to track students' knowledge levels and provide customized feedback on complex accounting concepts. For a quick over of how the system looks check the Systems_Pics folder.
-Model evaluations are found in the MOdel_Evaluations folder
+The Intelligent Tutoring Expert System (ITES) is designed to assist students in the Certificate in the Theory of Accounting (CTA) program by providing personalized learning paths and adaptive feedback. The system uses Bayesian Knowledge Tracing (BKT) and the OpenAI API to track students' knowledge levels and provide customized feedback on complex accounting concepts. 
+**If you would like a quick overview of how the system looks check the Systems_Pics folder.**
+**Model evaluations are found in the MOdel_Evaluations folder.**
+**To check the knowledge base check ITE_s/class_room/helper_functions\KNW_Base_Domain_model.py**
 
 ## System Features
 - Adaptive learning paths using Bayesian Knowledge Tracing (BKT)
