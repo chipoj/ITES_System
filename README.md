@@ -50,7 +50,7 @@ pip install -r requirements.txt
    Navigate to the `ITE_S` folder and run the system using `manage.py`:
    ```bash
    cd ITE_S
-   python manage.py runserver
+   python manage.py runserver  and then open a web browser to the URL printed to the terminal.
    ```
 
    The system uses Django's inbuilt SQLite database, so no external database configuration is required.
