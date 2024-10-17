@@ -50,7 +50,7 @@ pip install -r requirements.txt
    Navigate to the `ITE_S` folder and run the system using `manage.py`:
    ```bash
    cd ITE_S
-   python manage.py runserver  and then open a web browser to the URL printed to the terminal.
+   python manage.py runserver  
    ```
 
    The system uses Django's inbuilt SQLite database, so no external database configuration is required.
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 2. **Follow Linux Installation Instructions**:
    Once WSL is installed, follow the steps outlined above for Linux users. Ensure you're in the Linux environment when executing the commands.
-3.  System runs on http://127.0.0.1:8000   
+3.  System runs on http://127.0.0.1:8000 or any url displayed when you run the manage.py runserver command
 
 ## How to Use
 Once the system is up and running:
